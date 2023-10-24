@@ -17,7 +17,7 @@ class offers extends StatelessWidget {
         child: Container(
           width: double.infinity,
           child: Container(
-            // iphone1415promax11UL (2:139)
+            
             width: double.infinity,
             decoration: BoxDecoration (
               color: Color(0xffffffff),
@@ -26,21 +26,21 @@ class offers extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 Container(
-                  // autogroupwq5jXha (PXthfNhmGcuBrFV4r4wq5J)
+                  
                   padding: EdgeInsets.fromLTRB(35*fem, 33*fem, 35*fem, 11*fem),
                   width: double.infinity,
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Container(
-                        // autogroupsxfef36 (PXtgDR7fE4m5n6eCHbsXFe)
+                        
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 45*fem),
                         width: double.infinity,
                         child: Row(
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              // iconarrowleft1n7i (2:162)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 2*fem, 139.56*fem, 0*fem),
                               width: 13.44*fem,
                               height: 16*fem,
@@ -51,7 +51,7 @@ class offers extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // billsHKN (2:161)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 133*fem, 0*fem),
                               child: Text(
                                 'Bills',
@@ -65,7 +65,7 @@ class offers extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // iconaddPdJ (2:164)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 3*fem, 0*fem, 0*fem),
                               width: 25*fem,
                               height: 25*fem,
@@ -79,7 +79,7 @@ class offers extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // subscriptionube (2:169)
+                        
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 0*fem),
                         child: Text(
                           'Subscription',
@@ -96,7 +96,7 @@ class offers extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  // autogroupfpveckx (PXtgP5WE9J8GbzJ3NifpVe)
+                  
                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 41*fem),
                   width: 430*fem,
                   height: 5*fem,
@@ -107,7 +107,7 @@ class offers extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  // premium8DW (2:171)
+                  
                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 5*fem, 6*fem),
                   child: Text(
                     'Premium',
@@ -121,7 +121,7 @@ class offers extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  // onlySjz (2:172)
+                  
                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 4*fem, 0*fem),
                   child: Text(
                     '\$60 ONLY',
@@ -136,14 +136,14 @@ class offers extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  // autogroupevmer32 (PXthqcuhB4a9q2khPzevMe)
+                  
                   padding: EdgeInsets.fromLTRB(0*fem, 56*fem, 0*fem, 0*fem),
                   width: double.infinity,
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Container(
-                        // autogrouppwagmvg (PXtgWQdM7gGLpKUkcbpwaG)
+                        
                         margin: EdgeInsets.fromLTRB(15*fem, 0*fem, 16*fem, 77*fem),
                         padding: EdgeInsets.fromLTRB(35*fem, 52*fem, 65.56*fem, 121*fem),
                         width: double.infinity,
@@ -155,13 +155,13 @@ class offers extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Container(
-                              // autogrouptrhe4un (PXtgeKZq5GiCBYHFKHtrhE)
+                              
                               width: double.infinity,
                               child: Row(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // premiumcontentcgQ (2:174)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 113*fem, 0*fem),
                                     child: Text(
                                       'Premium Content',
@@ -175,7 +175,7 @@ class offers extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // iconarrowleft1wCt (2:175)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
                                     width: 13.44*fem,
                                     height: 16*fem,
@@ -192,7 +192,7 @@ class offers extends StatelessWidget {
                               height: 78*fem,
                             ),
                             Text(
-                              // identifytheftinsurancedLc (2:177)
+                              
                               'Identify Theft Insurance',
                               style: SafeGoogleFont (
                                 'Inter',
@@ -206,7 +206,7 @@ class offers extends StatelessWidget {
                               height: 78*fem,
                             ),
                             Text(
-                              // familyprotectionXgt (2:178)
+                              
                               'Family Protection',
                               style: SafeGoogleFont (
                                 'Inter',
@@ -220,7 +220,7 @@ class offers extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // autogroupoxeu3v8 (PXtgp9cnZRJkCFpkFVoxEU)
+                        
                         padding: EdgeInsets.fromLTRB(21*fem, 24*fem, 26*fem, 12*fem),
                         width: double.infinity,
                         height: 105*fem,
@@ -231,14 +231,14 @@ class offers extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              // autogroup7312MA8 (PXth1E8fJT8Y7AYe2s7312)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 27*fem, 0*fem),
                               height: double.infinity,
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // iconbarchart5rp (2:159)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 9.85*fem, 7.74*fem),
                                     width: 47.15*fem,
                                     height: 41.26*fem,
@@ -259,7 +259,7 @@ class offers extends StatelessWidget {
                                         );
                                       },
                                       child: Text(
-                                        // overviewCAk (2:144)
+                                        
                                         'Overview',
                                         style: SafeGoogleFont (
                                           'Inter',
@@ -275,14 +275,14 @@ class offers extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // autogroups944LXr (PXthADsfx1aGBkdsjdS944)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 41*fem, 0*fem),
                               height: double.infinity,
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // iconcalendarUPA (2:145)
+                                    
                                     margin: EdgeInsets.fromLTRB(4*fem, 0*fem, 0*fem, 11.84*fem),
                                     width: 38*fem,
                                     height: 37.16*fem,
@@ -303,7 +303,7 @@ class offers extends StatelessWidget {
                                         );
                                       },
                                       child: Text(
-                                        // analyticsyqi (2:141)
+                                        
                                         'Analytics',
                                         style: SafeGoogleFont (
                                           'Inter',
@@ -319,13 +319,13 @@ class offers extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // autogroupssvrvW4 (PXthGdreoLwpsYRVpXSsVr)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 6*fem, 50*fem, 0*fem),
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // iconticketdiscountruW (2:149)
+                                    
                                     margin: EdgeInsets.fromLTRB(3*fem, 0*fem, 0*fem, 16.19*fem),
                                     width: 35*fem,
                                     height: 26.81*fem,
@@ -336,7 +336,7 @@ class offers extends StatelessWidget {
                                     ),
                                   ),
                                   Text(
-                                    // offersxhe (2:142)
+                                    
                                     'Offers',
                                     style: SafeGoogleFont (
                                       'Inter',
@@ -350,13 +350,13 @@ class offers extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // autogroupe1rxWDN (PXthMtCugFhqFYyYyoe1rx)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 4*fem, 0*fem, 0*fem),
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // iconsettingsqmS (2:156)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 7.07*fem, 11.79*fem),
                                     width: 38.93*fem,
                                     height: 33.21*fem,
@@ -367,7 +367,7 @@ class offers extends StatelessWidget {
                                     ),
                                   ),
                                   Text(
-                                    // settingsx5N (2:143)
+                                    
                                     'Settings',
                                     style: SafeGoogleFont (
                                       'Inter',

@@ -16,7 +16,7 @@ class loginpage extends StatelessWidget {
         child: Container(
           width: double.infinity,
           child: Container(
-            // iphone1415promax1wB6 (2:346)
+            
             padding: EdgeInsets.fromLTRB(1*fem, 3*fem, 1*fem, 3*fem),
             width: double.infinity,
             height: 932*fem,
@@ -24,7 +24,7 @@ class loginpage extends StatelessWidget {
               color: Color(0xffffffff),
             ),
             child: Container(
-              // loginscreen3zp (2:374)
+              
               width: double.infinity,
               height: double.infinity,
               decoration: BoxDecoration (
@@ -34,7 +34,7 @@ class loginpage extends StatelessWidget {
               child: Stack(
                 children: [
                   Positioned(
-                    // objectsmvp (2:375)
+                    
                     left: -1*fem,
                     top: -3*fem,
                     child: Align(
@@ -50,7 +50,7 @@ class loginpage extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // headerGsa (2:380)
+                    
                     left: 98*fem,
                     top: 97*fem,
                     child: Container(
@@ -60,7 +60,7 @@ class loginpage extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.center,
                         children: [
                           Container(
-                            // loginherebex (2:381)
+                            
                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 3*fem, 26*fem),
                             child: Text(
                               'Login here',
@@ -75,7 +75,7 @@ class loginpage extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // welcomebackyouvebeenmissedhxt (2:382)
+                            
                             constraints: BoxConstraints (
                               maxWidth: 225*fem,
                             ),
@@ -96,7 +96,7 @@ class loginpage extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // formBt4 (2:383)
+                    
                     left: 31*fem,
                     top: 302*fem,
                     child: Container(
@@ -107,13 +107,13 @@ class loginpage extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.end,
                           children: [
                             Container(
-                              // inputs712 (2:384)
+                              
                               width: double.infinity,
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // inputTKn (2:385)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 29*fem),
                                     padding: EdgeInsets.fromLTRB(20*fem, 20*fem, 20*fem, 20*fem),
                                     width: double.infinity,
@@ -137,7 +137,7 @@ class loginpage extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // inputvUG (2:386)
+                                    
                                     padding: EdgeInsets.fromLTRB(20*fem, 20*fem, 20*fem, 20*fem),
                                     width: double.infinity,
                                     decoration: BoxDecoration (
@@ -166,7 +166,7 @@ class loginpage extends StatelessWidget {
                               height: 30*fem,
                             ),
                             Container(
-                              // forgotyourpasswordzyv (2:387)
+                              
                               width: double.infinity,
                               child: Text(
                                 'Forgot your password?',
@@ -184,13 +184,13 @@ class loginpage extends StatelessWidget {
                               height: 30*fem,
                             ),
                             Container(
-                              // actionshtL (2:388)
+                              
                               width: double.infinity,
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // buttonGAk (2:389)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 30*fem),
                                     width: double.infinity,
                                     height: 60*fem,
@@ -232,7 +232,7 @@ class loginpage extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // button7SG (2:390)
+                                    
                                     width: double.infinity,
                                     height: 41*fem,
                                     decoration: BoxDecoration (
@@ -262,7 +262,7 @@ class loginpage extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // socialmediap5n (2:391)
+                    
                     left: 114*fem,
                     top: 736*fem,
                     child: Container(
@@ -272,7 +272,7 @@ class loginpage extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.center,
                         children: [
                           Container(
-                            // orcontinuewith984 (2:392)
+                            
                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 20*fem),
                             child: Text(
                               'Or continue with',
@@ -287,13 +287,13 @@ class loginpage extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // socialmediaroA (2:393)
+                            
                             width: double.infinity,
                             child: Row(
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 Container(
-                                  // googlepEC (I2:393;615:24)
+                                  
                                   width: 60*fem,
                                   height: 44*fem,
                                   child: Image.asset(
@@ -306,7 +306,7 @@ class loginpage extends StatelessWidget {
                                   width: 10*fem,
                                 ),
                                 Container(
-                                  // facebookjMA (I2:393;615:28)
+                                  
                                   width: 60*fem,
                                   height: 44*fem,
                                   child: Image.asset(
@@ -319,7 +319,7 @@ class loginpage extends StatelessWidget {
                                   width: 10*fem,
                                 ),
                                 Container(
-                                  // apple4PS (I2:393;615:32)
+                                  
                                   width: 60*fem,
                                   height: 44*fem,
                                   child: Image.asset(

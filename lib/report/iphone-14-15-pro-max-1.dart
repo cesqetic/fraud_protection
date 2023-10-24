@@ -14,7 +14,7 @@ class report extends StatelessWidget {
       child: Container(
         width: double.infinity,
         child: Container(
-          // iphone1415promax1kja (2:328)
+          
           width: double.infinity,
           height: 932*fem,
           decoration: BoxDecoration (
@@ -23,7 +23,7 @@ class report extends StatelessWidget {
           child: Stack(
             children: [
               Positioned(
-                // ellipse151A (2:343)
+                
                 left: 281*fem,
                 top: 0*fem,
                 child: Align(
@@ -39,7 +39,7 @@ class report extends StatelessWidget {
                 ),
               ),
               Positioned(
-                // ellipse2ycL (2:344)
+                
                 left: 0*fem,
                 top: 186*fem,
                 child: Align(
@@ -55,7 +55,7 @@ class report extends StatelessWidget {
                 ),
               ),
               Positioned(
-                // rectangle1hYL (2:329)
+                
                 left: 0*fem,
                 top: 333*fem,
                 child: Align(
@@ -75,7 +75,7 @@ class report extends StatelessWidget {
                 ),
               ),
               Positioned(
-                // iconarrowleftQhe (2:330)
+                
                 left: 32*fem,
                 top: 26*fem,
                 child: Align(
@@ -91,7 +91,7 @@ class report extends StatelessWidget {
                 ),
               ),
               Positioned(
-                // iconsearchoutlineiCY (2:334)
+                
                 left: 365*fem,
                 top: 26*fem,
                 child: Align(
@@ -107,7 +107,7 @@ class report extends StatelessWidget {
                 ),
               ),
               Positioned(
-                // reportafraudRse (2:337)
+                
                 left: 122*fem,
                 top: 22*fem,
                 child: Align(
@@ -128,7 +128,7 @@ class report extends StatelessWidget {
                 ),
               ),
               Positioned(
-                // nameXfn (2:338)
+                
                 left: 32*fem,
                 top: 86*fem,
                 child: Align(
@@ -149,7 +149,7 @@ class report extends StatelessWidget {
                 ),
               ),
               Positioned(
-                // line1pPz (2:340)
+                
                 left: 32*fem,
                 top: 151*fem,
                 child: Align(
@@ -165,7 +165,7 @@ class report extends StatelessWidget {
                 ),
               ),
               Positioned(
-                // datek2k (2:341)
+                
                 left: 32*fem,
                 top: 186*fem,
                 child: Align(
@@ -186,7 +186,7 @@ class report extends StatelessWidget {
                 ),
               ),
               Positioned(
-                // line2edv (2:342)
+                
                 left: 32*fem,
                 top: 251*fem,
                 child: Align(

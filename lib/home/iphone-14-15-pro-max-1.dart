@@ -17,7 +17,7 @@ class home extends StatelessWidget {
         child: Container(
           width: double.infinity,
           child: Container(
-            // iphone1415promax1s76 (2:181)
+            
             width: double.infinity,
             height: 932*fem,
             decoration: BoxDecoration (
@@ -26,7 +26,7 @@ class home extends StatelessWidget {
             child: Stack(
               children: [
                 Positioned(
-                  // rectangle1NJk (2:182)
+                  
                   left: 10*fem,
                   top: 12*fem,
                   child: Align(
@@ -43,7 +43,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // hellousersWQ (2:193)
+                  
                   left: 38*fem,
                   top: 135*fem,
                   child: Align(
@@ -64,7 +64,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // wehopeyouarehavinganicedaya9v (2:194)
+                  
                   left: 38*fem,
                   top: 189*fem,
                   child: Align(
@@ -85,7 +85,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // rectangle2UWC (2:195)
+                  
                   left: 15*fem,
                   top: 260*fem,
                   child: Align(
@@ -102,7 +102,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // homeBvQ (2:196)
+                  
                   left: 44*fem,
                   top: 278*fem,
                   child: Align(
@@ -123,7 +123,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // rectangle35Vz (2:197)
+                  
                   left: 156*fem,
                   top: 260*fem,
                   child: Align(
@@ -140,7 +140,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // analysisoRz (2:198)
+                  
                   left: 176*fem,
                   top: 278*fem,
                   child: Align(
@@ -173,7 +173,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // rectangle4uE8 (2:199)
+                  
                   left: 297*fem,
                   top: 260*fem,
                   child: Align(
@@ -190,7 +190,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // premiumDkc (2:200)
+                  
                   left: 317*fem,
                   top: 278*fem,
                   child: Align(
@@ -223,7 +223,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // rectangle586t (2:201)
+                  
                   left: 47*fem,
                   top: 358*fem,
                   child: Align(
@@ -240,7 +240,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // appse5E (2:202)
+                  
                   left: 74*fem,
                   top: 487*fem,
                   child: Align(
@@ -261,7 +261,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // october212023MVS (2:203)
+                  
                   left: 74*fem,
                   top: 541*fem,
                   child: Align(
@@ -282,7 +282,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // appsthathaveahigherchancetosca (2:204)
+                  
                   left: 74*fem,
                   top: 401*fem,
                   child: Align(
@@ -303,7 +303,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // fraudprobabilityZLc (2:206)
+                  
                   left: 29*fem,
                   top: 644*fem,
                   child: Align(
@@ -324,7 +324,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // line1Tgt (2:205)
+                  
                   left: 196*fem,
                   top: 618*fem,
                   child: Align(
@@ -340,7 +340,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // rectangle6PqS (2:207)
+                  
                   left: 29*fem,
                   top: 696*fem,
                   child: Align(
@@ -357,7 +357,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // chanceisi (2:214)
+                  
                   left: 101*fem,
                   top: 712*fem,
                   child: Align(
@@ -378,7 +378,7 @@ class home extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  // daysago39J (2:215)
+                  
                   left: 104*fem,
                   top: 738*fem,
                   child: Align(

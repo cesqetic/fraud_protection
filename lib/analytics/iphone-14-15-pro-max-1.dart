@@ -17,7 +17,7 @@ class analytics extends StatelessWidget {
         child: Container(
           width: double.infinity,
           child: Container(
-            // iphone1415promax1zkg (1:2)
+            
             width: double.infinity,
             decoration: BoxDecoration (
               color: Color(0xffffffff),
@@ -26,14 +26,14 @@ class analytics extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 Container(
-                  // autogroupluikeye (PXtZUXWeUXYSJbSYq5LUik)
+                  
                   padding: EdgeInsets.fromLTRB(15*fem, 35*fem, 16*fem, 65*fem),
                   width: double.infinity,
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Container(
-                        // homeKK6 (2:13)
+                        
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 3*fem, 47*fem),
                         child: Text(
                           'HOME',
@@ -47,7 +47,7 @@ class analytics extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // totalmoneygivenascompensationa (2:19)
+                        
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 13*fem, 17*fem),
                         child: Text(
                           ' Total money given as compensation',
@@ -61,7 +61,7 @@ class analytics extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // G7r (2:20)
+                        
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 12*fem, 53*fem),
                         child: Text(
                           '\$1,812',
@@ -76,7 +76,7 @@ class analytics extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // autogroupiypnynx (PXtWjBvUcgdYGp7uoBiyPN)
+                        
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 21*fem),
                         padding: EdgeInsets.fromLTRB(28*fem, 16*fem, 2*fem, 36*fem),
                         width: double.infinity,
@@ -88,13 +88,13 @@ class analytics extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              // autogroupmude4pQ (PXtXDg71fd31C1QVXGmUDe)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 57*fem, 2*fem),
                               child: Row(
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                   Container(
-                                    // appspronetoscamyouEsJ (2:23)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 61*fem, 0*fem),
                                     child: Text(
                                       'Apps Prone to Scam You',
@@ -108,7 +108,7 @@ class analytics extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // rectangle6L9e (2:29)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 6*fem, 0*fem),
                                     width: 19*fem,
                                     height: 18*fem,
@@ -117,7 +117,7 @@ class analytics extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // olxqs6 (2:30)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
                                     child: Text(
                                       'OLX',
@@ -134,14 +134,14 @@ class analytics extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // autogroupeyuqkjA (PXtXRavqFF1d33aeY5eYUQ)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 13*fem),
                               width: double.infinity,
                               child: Row(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // apps62L (2:24)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 138*fem, 1*fem),
                                     child: Text(
                                       '4 Apps',
@@ -155,14 +155,14 @@ class analytics extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // autogroupgsjtCr4 (PXtXbaeBJJqYEb1oKNgSJt)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 6*fem, 3*fem),
                                     width: 19*fem,
                                     child: Column(
                                       crossAxisAlignment: CrossAxisAlignment.center,
                                       children: [
                                         Container(
-                                          // rectangle77i8 (2:32)
+                                          
                                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 3*fem),
                                           width: double.infinity,
                                           height: 18*fem,
@@ -171,7 +171,7 @@ class analytics extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // rectangle8eCG (2:34)
+                                          
                                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 4*fem),
                                           width: double.infinity,
                                           height: 18*fem,
@@ -180,7 +180,7 @@ class analytics extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // rectangle9P9r (2:36)
+                                          
                                           width: double.infinity,
                                           height: 18*fem,
                                           decoration: BoxDecoration (
@@ -191,13 +191,13 @@ class analytics extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // autogroupyx2lLKz (PXtXjpuSPjk7yTbbiEyx2L)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
                                     child: Column(
                                       crossAxisAlignment: CrossAxisAlignment.start,
                                       children: [
                                         Container(
-                                          // instagram4Fz (2:31)
+                                          
                                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 1*fem),
                                           child: Text(
                                             'Instagram',
@@ -211,7 +211,7 @@ class analytics extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // googleadsNXa (2:33)
+                                          
                                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 2*fem),
                                           child: Text(
                                             'Google Ads',
@@ -225,7 +225,7 @@ class analytics extends StatelessWidget {
                                           ),
                                         ),
                                         Text(
-                                          // youtubehJx (2:35)
+                                          
                                           'YouTube',
                                           style: SafeGoogleFont (
                                             'Inter',
@@ -242,13 +242,13 @@ class analytics extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // autogroup4bb63Np (PXtXz9puCfZY2UBiVq4bb6)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 23*fem, 0*fem),
                               child: Row(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // rectangle2Nvt (2:25)
+                                    
                                     width: 63*fem,
                                     height: 15*fem,
                                     decoration: BoxDecoration (
@@ -260,7 +260,7 @@ class analytics extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // rectangle4ufv (2:27)
+                                    
                                     width: 70*fem,
                                     height: 15*fem,
                                     decoration: BoxDecoration (
@@ -268,7 +268,7 @@ class analytics extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // rectangle5r5N (2:28)
+                                    
                                     width: 120*fem,
                                     height: 15*fem,
                                     decoration: BoxDecoration (
@@ -280,7 +280,7 @@ class analytics extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // rectangle3B7e (2:26)
+                                    
                                     width: 93*fem,
                                     height: 15*fem,
                                     decoration: BoxDecoration (
@@ -298,7 +298,7 @@ class analytics extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // autogrouppsk8upL (PXtYZJYL9JREAnQZvPPSk8)
+                        
                         padding: EdgeInsets.fromLTRB(16*fem, 32*fem, 15*fem, 47*fem),
                         width: double.infinity,
                         decoration: BoxDecoration (
@@ -309,14 +309,14 @@ class analytics extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Container(
-                              // autogroup9ihecCx (PXtYm3hmA1AUpzh5679ihe)
+                              
                               margin: EdgeInsets.fromLTRB(41*fem, 0*fem, 0*fem, 55*fem),
                               width: double.infinity,
                               child: Row(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // lastscamsinyourareak4G (2:47)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 23*fem, 0*fem),
                                     child: Text(
                                       'Last Scams In Your Area',
@@ -330,7 +330,7 @@ class analytics extends StatelessWidget {
                                     ),
                                   ),
                                   Text(
-                                    // 44x (2:48)
+                                    
                                     '\$290',
                                     style: SafeGoogleFont (
                                       'Inter',
@@ -344,7 +344,7 @@ class analytics extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // olxbKn (2:49)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 15*fem),
                               child: Text(
                                 'OLX',
@@ -358,14 +358,14 @@ class analytics extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // autogroupirj4Whe (PXtYsYWwHo9j7CRX6YirJ4)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 43*fem, 36*fem),
                               width: double.infinity,
                               child: Row(
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // rectangle11FQL (2:50)
+                                    
                                     width: 232*fem,
                                     height: 15*fem,
                                     decoration: BoxDecoration (
@@ -374,7 +374,7 @@ class analytics extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // rectangle12bUC (2:51)
+                                    
                                     width: 93*fem,
                                     height: 15*fem,
                                     decoration: BoxDecoration (
@@ -389,7 +389,7 @@ class analytics extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // googleadsiYp (2:52)
+                              
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 15*fem),
                               child: Text(
                                 'Google Ads',
@@ -403,13 +403,13 @@ class analytics extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // autogroup2nxq3LC (PXtYxxXajd96g2sE6v2nxQ)
+                              
                               width: 325*fem,
                               height: 15*fem,
                               child: Stack(
                                 children: [
                                   Positioned(
-                                    // rectangle13N7a (2:53)
+                                    
                                     left: 180*fem,
                                     top: 0*fem,
                                     child: Align(
@@ -429,7 +429,7 @@ class analytics extends StatelessWidget {
                                     ),
                                   ),
                                   Positioned(
-                                    // rectangle14TPv (2:54)
+                                    
                                     left: 0*fem,
                                     top: 0*fem,
                                     child: Align(
@@ -455,7 +455,7 @@ class analytics extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  // autogroupw2brZhr (PXtZET5mWya52pgup7w2br)
+                  
                   padding: EdgeInsets.fromLTRB(21*fem, 73*fem, 26*fem, 12*fem),
                   width: double.infinity,
                   decoration: BoxDecoration (
@@ -465,7 +465,7 @@ class analytics extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.end,
                     children: [
                       Container(
-                        // overviewHNx (2:81)
+                        
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 27*fem, 0*fem),
                         child: Container(
                           child: InkWell(
@@ -491,7 +491,7 @@ class analytics extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // analytics144 (2:61)
+                        
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 41*fem, 0*fem),
                         child: Text(
                           'Analytics',
@@ -505,7 +505,7 @@ class analytics extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // offers7Mz (2:70)
+                        
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 50*fem, 0*fem),
                         child: Container(
                           child: InkWell(
@@ -531,7 +531,7 @@ class analytics extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        // settingsEhW (2:73)
+                        
                         'Settings',
                         style: SafeGoogleFont (
                           'Inter',

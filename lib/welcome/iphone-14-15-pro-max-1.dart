@@ -14,7 +14,7 @@ class wellcome extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // iphone1415promax1enC (2:411)
+        
         padding: EdgeInsets.fromLTRB(1*fem, 3*fem, 1*fem, 3*fem),
         width: double.infinity,
         height: 932*fem,
@@ -22,7 +22,7 @@ class wellcome extends StatelessWidget {
           color: Color(0xffffffff),
         ),
         child: Container(
-          // welcomescreenaA4 (2:412)
+          
           width: double.infinity,
           height: double.infinity,
           decoration: BoxDecoration (
@@ -40,7 +40,7 @@ class wellcome extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Container(
-                      // autogroupegxi4qv (PXtp4cCs3rvjJKbiSBegXi)
+                      
                       margin: EdgeInsets.fromLTRB(22*fem, 0*fem, 0*fem, 0*fem),
                       width: 761*fem,
                       height: 799*fem,
@@ -51,13 +51,13 @@ class wellcome extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      // autogroupooclapG (PXtpBwKz2F4oWenRg4oocL)
+                      
                       width: 712*fem,
                       height: 606.59*fem,
                       child: Stack(
                         children: [
                           Positioned(
-                            // rectangle37pC (2:414)
+                            
                             left: 0*fem,
                             top: 106*fem,
                             child: Align(
@@ -73,7 +73,7 @@ class wellcome extends StatelessWidget {
                             ),
                           ),
                           Positioned(
-                            // rectangle4pyW (2:415)
+                            
                             left: 0*fem,
                             top: 165.2951049805*fem,
                             child: Align(
@@ -89,7 +89,7 @@ class wellcome extends StatelessWidget {
                             ),
                           ),
                           Positioned(
-                            // textsLBA (2:515)
+                            
                             left: 59*fem,
                             top: 0*fem,
                             child: Container(
@@ -99,7 +99,7 @@ class wellcome extends StatelessWidget {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // safeguardfUL (2:516)
+                                    
                                     margin: EdgeInsets.fromLTRB(4*fem, 0*fem, 0*fem, 25*fem),
                                     child: Text(
                                       'Safe Guard  ',
@@ -114,7 +114,7 @@ class wellcome extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // protectyourselffromgettingscam (2:517)
+                                    
                                     constraints: BoxConstraints (
                                       maxWidth: 307*fem,
                                     ),
@@ -135,7 +135,7 @@ class wellcome extends StatelessWidget {
                             ),
                           ),
                           Positioned(
-                            // actionbuttonsdJg (2:518)
+                            
                             left: 40*fem,
                             top: 259*fem,
                             child: Container(
@@ -145,7 +145,7 @@ class wellcome extends StatelessWidget {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // buttonLyn (2:519)
+                                    
                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 30*fem, 0*fem),
                                     width: 160*fem,
                                     height: double.infinity,
@@ -187,7 +187,7 @@ class wellcome extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // buttonbui (2:520)
+                                    
                                     width: 160*fem,
                                     height: double.infinity,
                                     decoration: BoxDecoration (
